@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MorrowRim_DunmerFactionGreetingHostile>{0} хрипит ругательства и отключается.</MorrowRim_DunmerFactionGreetingHostile>
+	<MorrowRim_DunmerFactionGreetingHostileAppreciative>{0} хрипит ругательства. Пока вы не начнёте делать жесты доброй воли, {0_pronoun} не станет иметь с вами дело. Вы можете улучшить с ним отношения с помощью следующих мероприятий: \n-принести в дар подарок одному из {0_possessive} поселений \n-выпустить безоружного пленника фракции {0_possessive}.\n\nПосле сказанных слов {0_pronoun} резко отключается.</MorrowRim_DunmerFactionGreetingHostileAppreciative>
+	<MorrowRim_DunmerFactionGreetingWary>{0} хрипит приветствие.</MorrowRim_DunmerFactionGreetingWary>
+	<MorrowRim_DunmerFactionGreetingWarm>{0} хрипит приветствие в уважительных тонах к {NEGOTIATOR_labelShort}.</MorrowRim_DunmerFactionGreetingWarm>
+</LanguageData>

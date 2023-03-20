@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<MorrowRim_TribeRoughAshlander.label>свирепое племя эшлендеров</MorrowRim_TribeRoughAshlander.label>
+	<MorrowRim_TribeRoughAshlander.description>Недружественное племя эшлендеров. Они открыты для мирной торговли, но в остальном не совсем приветливы. Их численность делает их серьезным потенциальным противником несмотря на отсутствие у них технологий.\n\nПроживая на этой планете бесчисленное количество поколений, они не помнят, как сюда попали. Они могут быть потомками колонистов-эшлендеров или даже остатками какого-то древнего научного эксперимента.</MorrowRim_TribeRoughAshlander.description>
+	<MorrowRim_TribeRoughAshlander.pawnSingular>эшлендер</MorrowRim_TribeRoughAshlander.pawnSingular>
+	<MorrowRim_TribeRoughAshlander.pawnsPlural>эшлендеры</MorrowRim_TribeRoughAshlander.pawnsPlural>
+</LanguageData>
